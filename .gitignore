@@ -1,0 +1,7 @@
+# mac/linux cruft
+.DS_Store
+*.swp
+*.swo
+
+# local-only notes
+LOCAL_NOTES.md
